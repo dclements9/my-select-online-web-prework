@@ -7,9 +7,10 @@ def my_select(collection)
         new_collection << collection[i]
       end
   i+=1
+  end
  else
    "No Block given."
- end
+ 
 end
  new_collection
 end
