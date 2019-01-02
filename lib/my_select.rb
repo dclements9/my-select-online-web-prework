@@ -10,7 +10,7 @@ def my_select(collection)
   end
  else
    "No Block given."
- 
+
 end
  new_collection
 end
